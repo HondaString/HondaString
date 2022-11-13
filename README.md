@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;小孙同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.demolab.com?lines=Honda+String();Andika Kurnia Sandi Yuda!&center=true&size=27">
   </a>
 </h1>
 
@@ -16,9 +16,8 @@
 
 #  🙋 Hello
 
-<p>✍️Hallo saya adalah Honda String atau nama asli saya Andika Kurnia Sandi Yuda</p>
-<p>Saya kuliah di Universitas Bina Sarana Informatika.</p>
-<p>Saya juga alumni bangkit academy 2022 lhoooooo 。</p>
+<p>✍️Hallo saya adalah Honda String atau nama asli saya Andika Kurnia Sandi Yuda, Saya kuliah di Universitas Bina Sarana Informatika. Saya juga alumni bangkit academy 2022 lhoooooo 。</p>
+
 <p>Salam kenal yaaaa。。。</p>
 
 <!-- 比较好的开源项目卡片 -->
@@ -29,7 +28,9 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HondaString&repo=AllAndroid&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
+<div align="center">
 💪 Bahasa: 
+
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -99,7 +100,7 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
@@ -141,11 +142,11 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 Text                     9 mins              ████████████████░░░░░░░░░   65.29% 
-Kotlin                   5 mins              ███████████████████████     90.00%
+Kotlin                   5 mins              ████████████████████████    80.71%
 
 🔥 Editors: 
 Android Studio           15 mins             █████████████████████████   100.0%
@@ -192,6 +193,6 @@ Windows                  15 mins             ███████████�
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://beta-metrics.lecoq.io/HondaString?template=classic&isocalendar=1&people=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=A&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FBangkok" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
