@@ -192,10 +192,7 @@ Windows                  15 mins             ███████████�
 <!-- just img -->
 <div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
 
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://beta-metrics.lecoq.io/HondaString?template=classic&isocalendar=1&people=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=A&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FBangkok" alt="plugin metrics" width="75%"/>
+ <img src="https://github.com/HondaString/HondaString/blob/main/anime.png" width="950"/>
 
-
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
+  <img src="https://github.com/HondaString/HondaString/blob/main/ghjj.png"/>
 </div>
