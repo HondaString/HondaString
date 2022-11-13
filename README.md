@@ -99,7 +99,7 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
@@ -141,14 +141,14 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
 Text                     9 mins              ████████████████░░░░░░░░░   65.29% 
-Kotlin                   5 mins              ███████████████████████     90.00%
+Python                   5 mins              ████████░░░░░░░░░░░░░░░░░   34.71%
 
 🔥 Editors: 
-Android Studio           15 mins             █████████████████████████   100.0%
+VS Code                  15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  15 mins             █████████████████████████   100.0%
@@ -192,6 +192,6 @@ Windows                  15 mins             ███████████�
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://beta-metrics.lecoq.io/HondaString?template=classic&isocalendar=1&people=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=A&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FBangkok" alt="plugin metrics" width="75%"/>
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
 </div>
