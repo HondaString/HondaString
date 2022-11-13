@@ -16,9 +16,8 @@
 
 #  🙋 Hello
 
-<p>✍️Hallo saya adalah Honda String atau nama asli saya Andika Kurnia Sandi Yuda</p>
-<p>Saya kuliah di Universitas Bina Sarana Informatika.</p>
-<p>Saya juga alumni bangkit academy 2022 lhoooooo 。</p>
+<p>✍️Hallo saya adalah Honda String atau nama asli saya Andika Kurnia Sandi Yuda, Saya kuliah di Universitas Bina Sarana Informatika. Saya juga alumni bangkit academy 2022 lhoooooo 。</p>
+
 <p>Salam kenal yaaaa。。。</p>
 
 <!-- 比较好的开源项目卡片 -->
@@ -29,7 +28,9 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HondaString&repo=AllAndroid&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
+<div align="center">
 💪 Bahasa: 
+
 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
