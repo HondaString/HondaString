@@ -99,7 +99,7 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" /></div>
 <br>
 
 <!-- GitHub数据统计 -->
@@ -141,14 +141,14 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
 Text                     9 mins              ████████████████░░░░░░░░░   65.29% 
-Python                   5 mins              ████████░░░░░░░░░░░░░░░░░   34.71%
+Kotlin                   5 mins              ███████████████████████     90.00%
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.0%
+Android Studio           15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
 Windows                  15 mins             █████████████████████████   100.0%
