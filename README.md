@@ -22,8 +22,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/HondaString/C22-PS233-TravelKuy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HondaString&repo=C22-PS233-TravelKuy&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/HondaString/BrainTrainerAplikasi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HondaString&repo=BrainTrainerAplikasi&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/HondaString/AllAndroid">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HondaString&repo=AllAndroid&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
