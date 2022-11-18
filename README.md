@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" ><img order-radius="100px" src="https://media.giphy.com/media/LXNNpY7ffZmf62RSC6/giphy.gif"/></div>
 <br>
 
 
@@ -37,6 +37,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -46,7 +47,6 @@
 
 &emsp;&emsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
@@ -73,6 +73,7 @@
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="Android" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100" title="Android">
 </div>
 
 <!-- just img -->
@@ -120,7 +121,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    251 commits    ██████████░░░░░░░░░░░░░░░   43.28% 
+🌞 Morning    251 commits    ██████                      43.28% 
 🌆 Daytime    147 commits    ██████░░░░░░░░░░░░░░░░░░░   25.34% 
 🌃 Evening    118 commits    █████░░░░░░░░░░░░░░░░░░░░   20.34% 
 🌙 Night      64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03%
@@ -129,7 +130,7 @@
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
+Monday       79 commits     ███                         13.62% 
 Tuesday      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
 Wednesday    100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
 Thursday     55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
@@ -146,7 +147,7 @@ Sunday       64 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     9 mins              ████████████████░░░░░░░░░   65.29% 
+Text                     9 mins              ████████████████            65.29% 
 Kotlin                   5 mins              ████████████████████████    80.71%
 
 🔥 Editors: 
